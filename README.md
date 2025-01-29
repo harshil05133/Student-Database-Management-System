@@ -9,9 +9,13 @@ This project is a high-performance student database management system implemente
 **Features** 
 
 ✅ Self-balancing AVL Tree for efficient storage and retrieval
+
 ✅ Fast insert, delete, search, and update operations (O(log n) time complexity)
+
 ✅ Supports thousands of student records with automatic balancing
+
 ✅ Customizable for real-world applications like student databases, registration systems, and ID-based searches
+
 
 
 **How It Works** 
